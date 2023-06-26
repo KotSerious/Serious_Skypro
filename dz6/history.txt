@@ -1,0 +1,4 @@
+alex=0
+ne alex=30
+san=40
+alex=0
